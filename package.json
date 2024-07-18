@@ -1,0 +1,11 @@
+{
+  "name": "event-listeners-task",
+  "version": "1.0.0",
+  "description": "A simple task to learn event listeners and DOM manipulation using JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "NFThing",
+  "license": "ISC"
+}
